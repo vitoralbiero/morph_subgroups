@@ -1,12 +1,13 @@
 # MORPH Age Cleaning
 This repository contains scripts to clean the age metadata of the MORPH dataset as mentioned in the paper "Does Face Recognition Accuracy Get Better With Age? Deep Face Matchers Say No".
 
-It also contains the list of subjects' images divided by age range, gender and ethnicity.
+It also contains the list of subjects' images divided by age range, gender and ethnicity used in the paper.
 
 To get the MORPH dataset click [here].
 
 [here]:https://www.faceaginggroup.com/?page_id=1414.
 
+Please cite the papers below if you use the dataset and cleaning steps provided here.
 
 ## Does Face Recognition Accuracy Get Better With Age? Deep Face Matchers Say No
 ```
