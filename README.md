@@ -11,11 +11,11 @@ To get the MORPH dataset click [here].
 ## Does Face Recognition Accuracy Get Better With Age? Deep Face Matchers Say No
 ```
 @InProceedings{albiero_wacv_2020,
-author={Vítor Albiero and Kevin W. Bowyer and Kushal Vangara and Michael C. King},
-title = {Does Face Recognition Accuracy Get Better With Age? Deep Face Matchers Say No},
-booktitle={2020 IEEE Winter Conference on Applications of Computer Vision (WACV)},
-month = {March},
-year = {2020}
+    author={Vítor Albiero and Kevin W. Bowyer and Kushal Vangara and Michael C. King},
+    title = {Does Face Recognition Accuracy Get Better With Age? Deep Face Matchers Say No},
+    booktitle={2020 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+    month = {March},
+    year = {2020}
 }
 ```
 
